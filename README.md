@@ -1,2 +1,1 @@
-# EyeOTea
-Team 4 - ESW Project 
+# Water Quality Monitoring
